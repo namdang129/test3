@@ -1,0 +1,73 @@
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\appsettings.json
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.exe
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.deps.json
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.runtimeconfig.json
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.runtimeconfig.dev.json
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.pdb
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.csprojAssemblyReference.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.AssemblyInfoInputs.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.AssemblyInfo.cs
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.csproj.CoreCompileInputs.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.MvcApplicationPartsAssemblyInfo.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\staticwebassets\Test 3.StaticWebAssets.Manifest.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\staticwebassets\Test 3.StaticWebAssets.xml
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test 3.styles.css
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.RazorTargetAssemblyInfo.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.dll
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.pdb
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.genruntimeconfig.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.RazorAssemblyInfo.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.RazorAssemblyInfo.cs
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.Views.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Test 3.Views.pdb
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\StudyC#\Test 3\Test 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.TagHelpers.input.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.TagHelpers.output.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.RazorCoreGenerate.cache
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Razor\Views\LoginPage\Login.cshtml.g.cs
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.RazorTargetAssemblyInfo.cs
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.Views.pdb
+E:\StudyC#\Test 3\Test 3\obj\Debug\netcoreapp3.1\Test 3.csproj.CopyComplete
